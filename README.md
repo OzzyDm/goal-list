@@ -1,1 +1,1 @@
-The aim of this project is to practice styling in React.
+The aim of this project is to practice different CSS stylings in React.
